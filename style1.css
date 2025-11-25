@@ -1,0 +1,37 @@
+body{width:90%; 
+    margin:90px;
+    border:3px;
+}
+header{
+    padding:15px;
+    width:98%;
+    text-align: center;
+    background:beige;
+    height:75px;
+    margin-bottom:10px;
+}
+section div:first-child{
+    padding:5px; 
+    width:27%;
+    background:rgb(204, 204, 151);
+    float:left;
+    height:400px;
+    text-align:center;
+}
+section div:nth-child(2){
+    padding:5px; 
+    width:70%; 
+    background: rgb(204, 204, 151); 
+    float:right; 
+    height:400px;
+    text-align:center;
+}
+.clear{clear:both}
+footer{
+    padding:15px; 
+    width:98%; 
+    text-align:center; 
+    background:beige;
+    height:75px; 
+    margin-top:10px;
+}
